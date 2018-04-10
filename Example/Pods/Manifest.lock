@@ -1,0 +1,16 @@
+PODS:
+  - FFAuthorKit (0.1.0)
+
+DEPENDENCIES:
+  - FFAuthorKit (from `../`)
+
+EXTERNAL SOURCES:
+  FFAuthorKit:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FFAuthorKit: 63f452b4951e3d321a74b85272286efc383904ea
+
+PODFILE CHECKSUM: 32e803537350cecf4c2dbc8fd17d154759971f1d
+
+COCOAPODS: 1.4.0

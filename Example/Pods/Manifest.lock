@@ -1,5 +1,7 @@
 PODS:
-  - FFAuthorKit (0.1.0)
+  - FFAuthorKit (1.0):
+    - Masonry
+  - Masonry (1.1.0)
 
 DEPENDENCIES:
   - FFAuthorKit (from `../`)
@@ -9,8 +11,9 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  FFAuthorKit: 63f452b4951e3d321a74b85272286efc383904ea
+  FFAuthorKit: 3754849cf352afec05fb028c690bbd892622eb72
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
 
-PODFILE CHECKSUM: 32e803537350cecf4c2dbc8fd17d154759971f1d
+PODFILE CHECKSUM: 5096565e57c9ecdc631b322a9d47f1d64ac96263
 
 COCOAPODS: 1.4.0

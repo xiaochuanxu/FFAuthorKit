@@ -1,6 +1,6 @@
 {
   "name": "FFAuthorKit",
-  "version": "0.1.0",
+  "version": "1.0",
   "summary": "A short description of FFAuthorKit.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/xiaochuanxu/FFAuthorKit",
@@ -13,10 +13,15 @@
   },
   "source": {
     "git": "https://github.com/xiaochuanxu/FFAuthorKit.git",
-    "tag": "0.1.0"
+    "tag": "1.0"
   },
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "FFAuthorKit/Classes/**/*"
+  "source_files": "FFAuthorKit/Classes/**/*",
+  "dependencies": {
+    "Masonry": [
+
+    ]
+  }
 }

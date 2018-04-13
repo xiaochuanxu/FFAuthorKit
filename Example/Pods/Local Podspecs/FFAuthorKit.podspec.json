@@ -1,6 +1,6 @@
 {
   "name": "FFAuthorKit",
-  "version": "1.1",
+  "version": "1.3",
   "summary": "A short description of FFAuthorKit.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/xiaochuanxu/FFAuthorKit",
@@ -13,27 +13,10 @@
   },
   "source": {
     "git": "https://github.com/xiaochuanxu/FFAuthorKit.git",
-    "tag": "1.1"
+    "tag": "1.3"
   },
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "FFAuthorKit/Classes/**/*",
-  "dependencies": {
-    "Masonry": [
-
-    ],
-    "FFAPIs": [
-
-    ],
-    "FFCategoryKit": [
-
-    ],
-    "YYWebImage": [
-
-    ],
-    "ReactiveCocoa": [
-      "~> 2.5"
-    ]
-  }
+  "source_files": "FFAuthorKit/Classes/**/*"
 }

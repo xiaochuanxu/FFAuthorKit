@@ -9,6 +9,12 @@ target 'FFAuthorKit_Example' do
   target 'FFAuthorKit_Tests' do
     inherit! :search_paths
 
+    pod 'AFNetworking', '~> 2.3'
+    pod 'Masonry'
+    pod 'FFAPIs'
+    pod 'FFCategoryKit'
+    pod 'YYWebImage'
+    pod 'ReactiveCocoa', '~> 2.5'
     
   end
 end

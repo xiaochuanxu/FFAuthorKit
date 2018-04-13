@@ -31,6 +31,9 @@
     ],
     "YYWebImage": [
 
+    ],
+    "ReactiveCocoa": [
+      "~> 2.5"
     ]
   }
 }

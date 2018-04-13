@@ -15,7 +15,7 @@
 #import "FFAuthorCell.h"
 // controller
 #import "FFAuthorDetailController.h"
-#import "FFSpecialDetailController.h"
+//#import "FFSpecialDetailController.h"
 
 @interface FFAuthorController ()<APIResponseProtocol,FFCellProtocol>
 
@@ -50,8 +50,8 @@
 }
 
 - (void)cellGoodTopicDidClick:(NSIndexPath *)indexPath params:(NSDictionary *)params {
-    UIViewController *controller = [[FFSpecialDetailController alloc] init];
-    [self.navigationController pushViewController:controller animated:YES];
+//    UIViewController *controller = [[FFSpecialDetailController alloc] init];
+//    [self.navigationController pushViewController:controller animated:YES];
 }
 
 #pragma mark - getter

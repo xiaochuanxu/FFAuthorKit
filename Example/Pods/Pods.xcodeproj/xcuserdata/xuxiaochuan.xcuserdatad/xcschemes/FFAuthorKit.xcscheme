@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = 'C127EAC4D9952FED22550A008158BE67'
+               BlueprintIdentifier = '6BEE196313F0967967788381AFE2382C'
                BlueprintName = 'FFAuthorKit'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'FFAuthorKit.framework'>
